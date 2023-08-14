@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<img width="1432" alt="Screen Shot 2023-08-14 at 2 19 31 PM" src="https://github.com/Sweytha/SimpleReactCounterApp/assets/73808022/c6556f28-277f-4601-879d-5d49b601f196">
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -60,6 +63,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 ### Advanced Configuration
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+![Uploading Screen Shot 2023-08-14 at 2.19.31 PM.png…]()
 
 ### Deployment
 
